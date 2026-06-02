@@ -16,7 +16,7 @@
 |---|---|
 | Frontend | TypeScript, React, Vite |
 | Backend |  |
-| iOS |  |
+| iOS | Swift, SwiftUI |
 | Android |  |
 
 
@@ -31,8 +31,8 @@
 
 | 역할 | 담당 |
 |---|---|
-| PM |  |
-| Design |  |
+| PM | @h22jun |
+| Design | @jell1237 |
 | FE | @palrang22 |
 | BE | @sh990920 |
 | iOS | @gahyejeon |
